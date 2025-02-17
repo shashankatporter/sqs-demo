@@ -1,6 +1,6 @@
 object Modules {
 
-  object KPTR {
+  object QUEUEBERT {
     const val domain = ":domain"
 
     object Data {

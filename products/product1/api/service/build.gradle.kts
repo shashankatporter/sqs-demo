@@ -1,4 +1,4 @@
 dependencies {
-  implementation(project(Modules.KPTR.domain))
-  implementation(project(Modules.KPTR.Api.models))
+  implementation(project(Modules.QUEUEBERT.domain))
+  implementation(project(Modules.QUEUEBERT.Api.models))
 }

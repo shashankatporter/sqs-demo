@@ -37,7 +37,7 @@ allprojects {
 }
 
 subprojects {
-  group = "in.porter.kptr"
+  group = "in.porter.queuebert"
   version = "0.1.0"
 
   apply(plugin = Plugins.kotlinJvm)
